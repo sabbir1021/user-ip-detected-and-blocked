@@ -11,7 +11,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # My apps
-
+    'ip',
     # default app
     'django.contrib.admin',
     'django.contrib.auth',
